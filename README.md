@@ -1,4 +1,4 @@
-# Some-Deep-Learning-usefull-stuff
+# Some-Deep-Learning-useful-code
 A repository of some usefull jupyter notebooks about AI and Deep Learning
 
 The name of every files briefly introduces its content. However, open it for more details about its performance.
